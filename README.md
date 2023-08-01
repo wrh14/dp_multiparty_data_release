@@ -1,6 +1,18 @@
 # dp_multiparty_data_release
 Official code of [Differentially Private Multi-Party Data Release for Linear Regression](https://openreview.net/forum?id=SAlemvIoql9) by Ruihan Wu, Xin Yang, Yuanshun Yao, Jiankai Sun, Tianyi Liu, Kilian Q Weinberger, Chong Wang
 
+## 0. Data Preparation
+Download the `data` folder from [here](https://drive.google.com/drive/folders/1JVXvoyCKd7RP1kJNFQ211OvhPhW5TILj?usp=drive_link) and the structure is
+```
+./data/
+    UCI/
+        bike_sharing/processed_data.ptl
+        gpu/processed_data.ptl
+        insurance/processed_data.ptl
+        superconduct/processed_data.ptl
+        year_prediction/processed_data.ptl
+```
+
 ## 1. Run the Experiment with Synthetic Data
 Run the following script for `seed=0, ..., 999`
 ```
