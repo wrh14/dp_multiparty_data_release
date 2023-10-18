@@ -1,5 +1,5 @@
 # dp_multiparty_data_release
-Official code of [Differentially Private Multi-Party Data Release for Linear Regression](https://openreview.net/forum?id=SAlemvIoql9) in UAI 2023 by Ruihan Wu, Xin Yang, Yuanshun Yao, Jiankai Sun, Tianyi Liu, Kilian Q Weinberger, Chong Wang
+Official code of [Differentially Private Multi-Party Data Release for Linear Regression](https://openreview.net/forum?id=SAlemvIoql9) in UAI 2022 by Ruihan Wu, Xin Yang, Yuanshun Yao, Jiankai Sun, Tianyi Liu, Kilian Q Weinberger, Chong Wang
 
 ## 0. Data Preparation
 Download the `data` folder from [here](https://drive.google.com/drive/folders/1JVXvoyCKd7RP1kJNFQ211OvhPhW5TILj?usp=drive_link) and the structure is
